@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<adlibXML>
+  <recordList><record priref="2384" creation="2017-09-01T13:34:12" modification="2020-09-15T17:02:26">
+  <Production>
+    <creator>Gogh, Vincent van</creator>
+    <creator.role>kunstenaar</creator.role>
+    <creator.qualifier>Toegeschreven aan</creator.qualifier>
+    <production.place>Nuenen</production.place>
+  </Production>
+  <Production_date>
+    <production.date.start>1885-08</production.date.start>
+    <production.date.end>1885-08</production.date.end>
+  </Production_date>
+  <production.date.notes>augustus 1885</production.date.notes>
+  <Title>
+    <title>Boerin hooi omwoelend</title>
+  </Title>
+  <Titel_translation>
+    <title.translation>Farmer's Wife in the Field</title.translation>
+  </Titel_translation>
+  <Titel_translation>
+    <title.translation>Campesina en el campo</title.translation>
+  </Titel_translation>
+  <object_category>tekeningen</object_category>
+  <Object_name>
+    <object_name>krijttekening</object_name>
+  </Object_name>
+  <Technique>
+    <technique>getekend</technique>
+  </Technique>
+  <physical_description>zwart krijt op velijn papier</physical_description>
+  <Material>
+    <material>velijnpapier</material>
+    <material.part>drager</material.part>
+  </Material>
+  <Material>
+    <material>Krijt</material>
+    <material.part />
+  </Material>
+  <Dimension>
+    <dimension.part>bladmaat</dimension.part>
+    <dimension.type>hoogte</dimension.type>
+    <dimension.value>570</dimension.value>
+    <dimension.unit>mm</dimension.unit>
+    <dimension.notes />
+  </Dimension>
+  <Dimension>
+    <dimension.part>bladmaat</dimension.part>
+    <dimension.type>breedte</dimension.type>
+    <dimension.value>450</dimension.value>
+    <dimension.unit>mm</dimension.unit>
+    <dimension.notes />
+  </Dimension>
+  <Dimension>
+    <dimension.part>lijst</dimension.part>
+    <dimension.type>hoogte</dimension.type>
+    <dimension.value>80.6</dimension.value>
+    <dimension.unit>cm</dimension.unit>
+    <dimension.notes />
+  </Dimension>
+  <Dimension>
+    <dimension.part>lijst</dimension.part>
+    <dimension.type>breedte</dimension.type>
+    <dimension.value>55.7</dimension.value>
+    <dimension.unit>cm</dimension.unit>
+    <dimension.notes />
+  </Dimension>
+  <Dimension>
+    <dimension.part>lijst</dimension.part>
+    <dimension.type>diepte</dimension.type>
+    <dimension.value>1.8</dimension.value>
+    <dimension.unit>cm</dimension.unit>
+    <dimension.notes />
+  </Dimension>
+  <dimension.free>Incl. Lijst</dimension.free>
+  <Inscription>
+    <inscription.description>gesigneerd r.o. met zwart krijt: Vincent</inscription.description>
+    <inscription.type>signatuur</inscription.type>
+    <inscription.position>verso, rechtsonder</inscription.position>
+    <inscription.content>Vincent</inscription.content>
+    <inscription.creator>Gogh, Vincent van</inscription.creator>
+    <inscription.creator.role>kunstenaar</inscription.creator.role>
+  </Inscription>
+  <institution.name>Dordrechts Museum</institution.name>
+  <current_owner>Vereniging Dordrechts Museum</current_owner>
+  <acquisition.method>bruikleen</acquisition.method>
+  <acquisition.date>1979-06-28</acquisition.date>
+  <Acquisition_source>
+    <acquisition.source>Vereniging Dordrechts Museum</acquisition.source>
+  </Acquisition_source>
+  <owner_hist.acquisition.method>schenking</owner_hist.acquisition.method>
+  <owner_hist.acquired_from>Nijland, Hidde</owner_hist.acquired_from>
+  <owner_hist.place>Dordrecht</owner_hist.place>
+  <owner_hist.date.start>1914</owner_hist.date.start>
+  <credit_line>Dordrechts Museum, schenking 1914</credit_line>
+  <Exhibition>
+    <exhibition>Dutch landscape painting of the nineteenth century</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>buiten catalogus</exhibition.catalogue_number>
+    <exhibition.date.start>1979-10-08</exhibition.date.start>
+    <exhibition.date.end>1979-10-22</exhibition.date.end>
+    <exhibition.venue>Seoul Sejong Cultural Center Exhibition Hall</exhibition.venue>
+    <exhibition.venue.place>Seoul</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>Nuenen - 100 jaar Van Gogh</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>geen catalogus</exhibition.catalogue_number>
+    <exhibition.date.start>1984-10-06</exhibition.date.start>
+    <exhibition.date.end>1984-10-21</exhibition.date.end>
+    <exhibition.venue>Gemeentehuis</exhibition.venue>
+    <exhibition.venue.place>Nuenen</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>Vincent van Gogh from dutch collections, religion, humanity, nature</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>17</exhibition.catalogue_number>
+    <exhibition.date.start>1986-02-21</exhibition.date.start>
+    <exhibition.date.end>1986-03-31</exhibition.date.end>
+    <exhibition.venue>National Museum of Art</exhibition.venue>
+    <exhibition.venue.place>Osaka</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>Van Gogh in Brabant, schilderijen en tekeningen uit Etten en Nuenen</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>50</exhibition.catalogue_number>
+    <exhibition.date.start>1987-11-02</exhibition.date.start>
+    <exhibition.date.end>1988-01-10</exhibition.date.end>
+    <exhibition.venue>Noordbrabants Museum</exhibition.venue>
+    <exhibition.venue.place>Den Bosch</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>Vincent van Gogh</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>77</exhibition.catalogue_number>
+    <exhibition.date.start>1988-01-28</exhibition.date.start>
+    <exhibition.date.end>1989-04-04</exhibition.date.end>
+    <exhibition.venue>Galleria Nazionale d'Arte Moderna</exhibition.venue>
+    <exhibition.venue.place>Rome</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>Tekeningen uit eigen bezit</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>z.n.</exhibition.catalogue_number>
+    <exhibition.date.start>1992-04-25</exhibition.date.start>
+    <exhibition.date.end>1992-07-05</exhibition.date.end>
+    <exhibition.venue>Dordrechts Museum</exhibition.venue>
+    <exhibition.venue.place>Dordrecht</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>Millet / Van Gogh</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>11</exhibition.catalogue_number>
+    <exhibition.date.start>1998-09-14</exhibition.date.start>
+    <exhibition.date.end>1999-01-03</exhibition.date.end>
+    <exhibition.venue>Musée d'Orsay</exhibition.venue>
+    <exhibition.venue.place>Parijs</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>L'impressionismo e l'etá di Van Gogh</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>????</exhibition.catalogue_number>
+    <exhibition.date.start>2002-11-09</exhibition.date.start>
+    <exhibition.date.end>2003-03-02</exhibition.date.end>
+    <exhibition.venue>Casa dei Carrasi</exhibition.venue>
+    <exhibition.venue.place>Treviso</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>Gaugin / Van Gogh. Lávventura del colore novo</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>????</exhibition.catalogue_number>
+    <exhibition.date.start>2005-10-22</exhibition.date.start>
+    <exhibition.date.end>2006-03-19</exhibition.date.end>
+    <exhibition.venue>Santa Giulia Museo</exhibition.venue>
+    <exhibition.venue.place>Brescia</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>Moderne kunst in Brabant, een keur van Meesters</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>geen catalogus</exhibition.catalogue_number>
+    <exhibition.date.start>2006-04-14</exhibition.date.start>
+    <exhibition.date.end>2006-04-23</exhibition.date.end>
+    <exhibition.venue>Brabanthallen</exhibition.venue>
+    <exhibition.venue.place>Den Bosch</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>Becoming van Gogh</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>17</exhibition.catalogue_number>
+    <exhibition.date.start>2012-10-21</exhibition.date.start>
+    <exhibition.date.end>2013-01-20</exhibition.date.end>
+    <exhibition.venue>Denver Art Museum</exhibition.venue>
+    <exhibition.venue.place>Denver</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>Graag Gezien. Uit de schatkamer van het Dordrechts Museum</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>z.n.</exhibition.catalogue_number>
+    <exhibition.date.start>2014-07-19</exhibition.date.start>
+    <exhibition.date.end>2015-03-01</exhibition.date.end>
+    <exhibition.venue>Dordrechts Museum</exhibition.venue>
+    <exhibition.venue.place>Dordrecht</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>Holland op z'n mooist</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number>z.n.</exhibition.catalogue_number>
+    <exhibition.date.start>2015-04-05</exhibition.date.start>
+    <exhibition.date.end>2015-09-06</exhibition.date.end>
+    <exhibition.venue>Dordrechts Museum</exhibition.venue>
+    <exhibition.venue.place>Dordrecht</exhibition.venue.place>
+    <exhibition.organiser />
+    <exhibition.reference_number />
+  </Exhibition>
+  <Exhibition>
+    <exhibition>Uit liefde voor de stad - schatten uit Deventer, Leiden en Dordrecht</exhibition>
+    <exhibition.notes />
+    <exhibition.catalogue_number />
+    <exhibition.date.start>2016-03-20</exhibition.date.start>
+    <exhibition.date.end>2016-09-11</exhibition.date.end>
+    <exhibition.venue>Dordrechts Museum</exhibition.venue>
+    <exhibition.venue.place>Dordrecht</exhibition.venue.place>
+    <exhibition.organiser>Dordrechts Museum</exhibition.organiser>
+    <exhibition.reference_number />
+  </Exhibition>
+  <Documentation>
+    <documentation.author>Six, E.W.C.</documentation.author>
+    <documentation.title>Dordrechts Museum. Catalogus der kunstwerken</documentation.title>
+    <documentation.notes>bestandscatalogus</documentation.notes>
+    <documentation.page_reference>nr. 276</documentation.page_reference>
+    <documentation.shelfmark>Dordrecht 381</documentation.shelfmark>
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author>Faille, J.B. de la</documentation.author>
+    <documentation.title>works of Vincent van Gogh</documentation.title>
+    <documentation.notes />
+    <documentation.page_reference>p. 448, nr. F 1259 met afb.</documentation.page_reference>
+    <documentation.shelfmark />
+    <documentation.title.lead_word>The</documentation.title.lead_word>
+  </Documentation>
+  <Documentation>
+    <documentation.author>Schweitzer, G.J.</documentation.author>
+    <documentation.title>135 jaar Dordrechts Museum</documentation.title>
+    <documentation.notes />
+    <documentation.page_reference>p. 38 met afb.</documentation.page_reference>
+    <documentation.shelfmark />
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author />
+    <documentation.title>Vincent van Gogh from Dutch collections, religion, humanity, nature</documentation.title>
+    <documentation.notes>tentoonstellingscatalogus</documentation.notes>
+    <documentation.page_reference>nr. 17 met afb.</documentation.page_reference>
+    <documentation.shelfmark>Osaka 1</documentation.shelfmark>
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author>Uiert, E. van</documentation.author>
+    <documentation.title>Van Gogh in Brabant, schilderijen en tekeningen uit Etten en Nuenen</documentation.title>
+    <documentation.notes>tentoonstellingscatalogus</documentation.notes>
+    <documentation.page_reference>nr. 50 met afb.</documentation.page_reference>
+    <documentation.shelfmark />
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author>Frezotti, S.</documentation.author>
+    <documentation.title>Vincent van Gogh</documentation.title>
+    <documentation.notes>tentoonstellingscatalogus</documentation.notes>
+    <documentation.page_reference>nr. 77 met afb.</documentation.page_reference>
+    <documentation.shelfmark />
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author>Julhiet-Charvet, C.</documentation.author>
+    <documentation.title>Millet / Van Gogh</documentation.title>
+    <documentation.notes>tentoonstellingscatalogus</documentation.notes>
+    <documentation.page_reference>p. 48, afb. 11, p. 161, nr. 11</documentation.page_reference>
+    <documentation.shelfmark>Parijs 99</documentation.shelfmark>
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author />
+    <documentation.title>L’impressionismo e l’età di Van Gogh. La rivoluzione di un’arte nuova</documentation.title>
+    <documentation.notes>tentoonstellingscatalogus</documentation.notes>
+    <documentation.page_reference>p. 414, afb. 133 en p. 459</documentation.page_reference>
+    <documentation.shelfmark />
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author>Goldin, M.</documentation.author>
+    <documentation.title>Gougin / Van Gogh. L'avventura del colore novo</documentation.title>
+    <documentation.notes>tentoonstellingscatalogus</documentation.notes>
+    <documentation.page_reference>?????</documentation.page_reference>
+    <documentation.shelfmark />
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author>Standring, T.J.</documentation.author>
+    <documentation.title>Becoming van Gogh</documentation.title>
+    <documentation.notes />
+    <documentation.page_reference>p. 251, p. 271, cat. 17 en afb. 27 op p. 153</documentation.page_reference>
+    <documentation.shelfmark>Denver 2</documentation.shelfmark>
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author>Goldin, M.</documentation.author>
+    <documentation.title>Gaugin &amp; van Gogh, L'aventura del colore nuovo</documentation.title>
+    <documentation.notes />
+    <documentation.page_reference />
+    <documentation.shelfmark>Brescia 1</documentation.shelfmark>
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author>Paarlberg, S.</documentation.author>
+    <documentation.title>El siglo de oro Holandes en Dordrecht</documentation.title>
+    <documentation.notes />
+    <documentation.page_reference />
+    <documentation.shelfmark>Mexico 1</documentation.shelfmark>
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author />
+    <documentation.title>Van Gogh</documentation.title>
+    <documentation.notes />
+    <documentation.page_reference />
+    <documentation.shelfmark>Rome 6</documentation.shelfmark>
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author />
+    <documentation.title>Tekeningen uit eigen bezit, Een selectie uit de tekeningenverzameling 17e-20e eeuw</documentation.title>
+    <documentation.notes />
+    <documentation.page_reference />
+    <documentation.shelfmark>Dordrecht 279</documentation.shelfmark>
+    <documentation.title.lead_word />
+  </Documentation>
+  <Documentation>
+    <documentation.author>Bladel, S. van</documentation.author>
+    <documentation.title>Dordrecht 366 dagen</documentation.title>
+    <documentation.notes />
+    <documentation.page_reference />
+    <documentation.shelfmark>Dordrecht 405</documentation.shelfmark>
+    <documentation.title.lead_word />
+  </Documentation>
+  <content.motif.general>boerin</content.motif.general>
+  <content.motif.specific>ploegen</content.motif.specific>
+  <content.classification.scheme>ICONCLASS</content.classification.scheme>
+  <content.classification.code>47I123(+22)</content.classification.code>
+</record></recordList>
+</adlibXML>
